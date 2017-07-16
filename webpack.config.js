@@ -57,5 +57,6 @@ module.exports = {
             },
             allChunks: true
         })
-    ]
+    ],
+    devtool: 'source-map'
 };
